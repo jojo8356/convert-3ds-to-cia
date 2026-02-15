@@ -22,7 +22,7 @@ jobs:
           - os: macos-latest
             target: aarch64-apple-darwin
             artifact: 3ds-to-cia-macos-arm64
-          - os: macos-13
+          - os: macos-latest
             target: x86_64-apple-darwin
             artifact: 3ds-to-cia-macos-x86_64
 
