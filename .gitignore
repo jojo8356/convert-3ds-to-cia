@@ -1,0 +1,24 @@
+# Rust build artifacts
+/target/
+
+# ROM files
+*.3ds
+*.3DS
+*.cia
+*.CIA
+*.zip
+*.ZIP
+
+# Runtime directories
+/roms/
+/cia/
+/xorpads/
+
+# Generated files
+ncchinfo.bin
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
